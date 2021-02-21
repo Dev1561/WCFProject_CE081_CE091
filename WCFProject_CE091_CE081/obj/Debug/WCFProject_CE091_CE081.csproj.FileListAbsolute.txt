@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Sem6\SOC\Project\WCFProject_CE091_CE081\WCFProject_CE091_CE081\bin\Debug\WCFProject_CE091_CE081.dll.config
+C:\Users\HP\Documents\Sem6\SOC\Project\WCFProject_CE091_CE081\WCFProject_CE091_CE081\bin\Debug\WCFProject_CE091_CE081.dll
+C:\Users\HP\Documents\Sem6\SOC\Project\WCFProject_CE091_CE081\WCFProject_CE091_CE081\bin\Debug\WCFProject_CE091_CE081.pdb
+C:\Users\HP\Documents\Sem6\SOC\Project\WCFProject_CE091_CE081\WCFProject_CE091_CE081\obj\Debug\WCFProject_CE091_CE081.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Sem6\SOC\Project\WCFProject_CE091_CE081\WCFProject_CE091_CE081\obj\Debug\WCFProject_CE091_CE081.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Sem6\SOC\Project\WCFProject_CE091_CE081\WCFProject_CE091_CE081\obj\Debug\WCFProject_CE091_CE081.dll
+C:\Users\HP\Documents\Sem6\SOC\Project\WCFProject_CE091_CE081\WCFProject_CE091_CE081\obj\Debug\WCFProject_CE091_CE081.pdb
+C:\Users\priya\Desktop\PRIYANK wcf project\WcfProject4\WCFProject_CE091_CE081\WCFProject_CE091_CE081\bin\Debug\WCFProject_CE091_CE081.dll.config
+C:\Users\priya\Desktop\PRIYANK wcf project\WcfProject4\WCFProject_CE091_CE081\WCFProject_CE091_CE081\bin\Debug\WCFProject_CE091_CE081.dll
+C:\Users\priya\Desktop\PRIYANK wcf project\WcfProject4\WCFProject_CE091_CE081\WCFProject_CE091_CE081\bin\Debug\WCFProject_CE091_CE081.pdb
+C:\Users\priya\Desktop\PRIYANK wcf project\WcfProject4\WCFProject_CE091_CE081\WCFProject_CE091_CE081\obj\Debug\WCFProject_CE091_CE081.csprojAssemblyReference.cache
+C:\Users\priya\Desktop\PRIYANK wcf project\WcfProject4\WCFProject_CE091_CE081\WCFProject_CE091_CE081\obj\Debug\WCFProject_CE091_CE081.csproj.CoreCompileInputs.cache
+C:\Users\priya\Desktop\PRIYANK wcf project\WcfProject4\WCFProject_CE091_CE081\WCFProject_CE091_CE081\obj\Debug\WCFProject_CE091_CE081.dll
+C:\Users\priya\Desktop\PRIYANK wcf project\WcfProject4\WCFProject_CE091_CE081\WCFProject_CE091_CE081\obj\Debug\WCFProject_CE091_CE081.pdb
